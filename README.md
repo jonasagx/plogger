@@ -6,7 +6,7 @@ It's a tool to find duplicate files in a efficient way. The uniqueness of a file
 # Install
 To have it locally install with:
 
-`go get github.com/jonasagx/plogger.git`
+`go get github.com/jonasagx/plogger`
 
 Then run with:
 ```sh
